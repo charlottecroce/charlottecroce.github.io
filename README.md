@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nathancroce/)
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><b>Languages</b></summary>
   <br>
   
   [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/)
