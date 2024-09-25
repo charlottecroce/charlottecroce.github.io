@@ -5,4 +5,3 @@
   \     /
    -----  
 </pre>
-https://www.linkedin.com/in/nathancroce
